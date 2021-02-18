@@ -1,0 +1,7 @@
+{
+  "name": "welcomeScreen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
